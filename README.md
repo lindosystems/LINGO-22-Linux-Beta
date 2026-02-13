@@ -9,7 +9,7 @@ tar  -xvzf  LINGO64_22.0.141.tar.gz
 to extract the file into /opt/LINGO64_22. Next open `.bashrc` and add the following lines
 
 ```bash
-export LINGO_22_HOME=\opt\LINGO64_22
+export LINGO_22_HOME=/opt/LINGO64_22
 export PATH="/opt/LINGO64_22/bin
 ```
 
